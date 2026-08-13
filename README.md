@@ -4,23 +4,23 @@
 <!-- 1. ANIMATED HEADER SECTION                                                          -->
 <!-- =================================================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%230F172A&custom_color_2=%23311042&custom_color_3=%234F46E5&custom_color_4=%237928CA&height=220&section=header&text=SHUBHAM%20VERMA&fontSize=40&fontColor=%23ffffff&animation=fadeIn&fontAlignY=36&desc=Lead%20Software%20Engineer%20%7C%20AI%20%26%20Distributed%20Systems%20Architect&descFontSize=16&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%230F172A&custom_color_2=%23311042&custom_color_3=%234F46E5&custom_color_4=%237928CA&height=220&section=header&text=SHUBHAM%20VERMA&fontSize=42&fontColor=%23ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20MERN%20Developer%20%7C%20Java%20%26%20Python%20Engineer&descFontSize=16&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=720&height=45&lines=Distributed+Systems+%26+Cloud-Native+Microservices;Enterprise+Generative+AI+%26+Autonomous+Agents;Ultra-Low+Latency+High-Throughput+Pipelines;Full+Stack+Product+Engineering+%7C+Zero-Trust+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=720&height=45&lines=Full+Stack+MERN+Developer+(React+%2B+Node+%2B+MongoDB);Java+%26+Python+Software+Engineering;Data+Structures+%26+Algorithms+Enthusiast;Cybersecurity+%26+Threat+Analysis+Practitioner" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Academic & Location Badges -->
 <a href="#">
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20Computer%20Science%20%26%20Engineering-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20Computer%20Science%20%26%20Engineering-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Specialization-AI%20%2F%20ML%20%26%20Distributed%20Systems-7C3AED?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Specialization Badge" />
+  <img src="https://img.shields.io/badge/University-DIT%20University%2C%20Dehradun-7C3AED?style=for-the-badge&logo=civicrm&logoColor=white" alt="University Badge" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Location-Remote%20%2F%20Global-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Location-Dehradun%2C%20India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
 </a>
 
 <br/>
@@ -28,16 +28,16 @@
 
 <!-- Social & Portfolio Badges -->
 <a href="https://github.com/Shubhamverma2221" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live_Site-7928CA?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-GitHub_Projects-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://linkedin.com/in/shubhamverma" target="_blank">
+<a href="https://www.linkedin.com/in/shubham-verma-703061324" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:shubhamshivi2004@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/Shubhamverma2221" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://leetcode.com/u/shubhamshivi2004/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Coding_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
 <br/>
@@ -46,7 +46,6 @@
 <!-- Profile Analytics Badges -->
 <img src="https://komarev.com/ghpvc/?username=Shubhamverma2221&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/Shubhamverma2221?style=for-the-badge&logo=github&label=Followers&color=6366F1" alt="Followers" />
-<img src="https://img.shields.io/badge/Contributions-2500%2B_Commits-4F46E5?style=for-the-badge&logo=git&logoColor=white" alt="Contributions" />
 <img src="https://img.shields.io/github/stars/Shubhamverma2221?style=for-the-badge&logo=apachespark&label=Total_Stars&color=7C3AED" alt="Stars" />
 
 </div>
@@ -57,20 +56,20 @@
 <!-- 2. ABOUT SECTION                                                                    -->
 <!-- =================================================================================== -->
 
-## ⚡ Executive Summary & Architecture Philosophy
+## ⚡ Professional Biography & Engineering Mindset
 
-I am a **Senior Software Engineer & Distributed AI Architect** with a deep specialization in designing high-throughput, fault-tolerant backend infrastructures, enterprise-grade AI/ML pipelines, and real-time distributed platforms. Operating at the intersection of **systems programming, autonomous AI agents, and product engineering**, I build resilient cloud platforms engineered to serve millions of transactions with single-digit millisecond latencies.
+I am a **Computer Science Engineering undergraduate at DIT University, Dehradun**, passionate about building scalable, responsive full-stack web applications and exploring modern software engineering principles. My core technical background is rooted in **Java, Python, C, JavaScript, and the MERN stack (MongoDB, Express.js, React.js, Node.js)** alongside practical experience in **Cybersecurity, Threat Analysis, and Generative AI fundamentals**.
 
 ### 🎯 Core Engineering Pillars
-- **Distributed Systems & Microservices**: Architecting event-driven topologies utilizing Kafka, gRPC, and Kubernetes with zero-downtime rolling deployments and strict ACID/BASE semantics.
-- **Applied Artificial Intelligence & LLMs**: Engineering multi-agent autonomous systems, domain-adapted RAG pipelines (Retrieval-Augmented Generation), vector databases, and fine-tuned transformer architectures for mission-critical enterprise workflows.
-- **High-Performance Full Stack**: Building reactive, high-cadence interfaces coupled with micro-frontend architectures, GraphQL/REST data planes, and sub-second caching layers.
-- **Product & Reliability Engineering**: Upholding rigorous Site Reliability Engineering (SRE) principles, zero-trust security postures, CI/CD automated orchestration, and data governance compliance.
+- **Full Stack Web Development**: Designing end-to-end web applications with React.js, Node.js, Express.js, and MongoDB, with a focus on responsive UI/UX and secure REST APIs.
+- **Core Computer Science Fundamentals**: Strong foundation in Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems (OS), and Computer Networks.
+- **Applied AI & Data Analytics**: Integrating predictive analytics, AI-powered expense management, and Generative AI workflow automation into web platforms.
+- **Cybersecurity & Threat Assessment**: Hands-on exposure to vulnerability assessment, network security fundamentals, and risk analysis.
 
 ### 💼 Open To
-- `Staff / Senior Software Engineering Roles (Backend, AI/ML, Distributed Systems)`
-- `Founding Engineer & Principal Architect Positions`
-- `Open Source Core Maintenance & High-Impact Strategic Consultations`
+- `Software Development Engineer (SDE) Internships & Graduate Roles`
+- `Full Stack Web Developer (MERN / React / Node.js) Positions`
+- `Open Source Contributions & Collaborative Software Projects`
 
 ---
 
@@ -78,48 +77,48 @@ I am a **Senior Software Engineer & Distributed AI Architect** with a deep speci
 <!-- 3. TECH STACK SECTION                                                               -->
 <!-- =================================================================================== -->
 
-## 🛠️ Technology Stack & Engineering Ecosystem
+## 🛠️ Technology Stack & Skills
 
 <div align="center">
 
-### 💻 Core Languages
+### 💻 Programming Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,cpp,c,java&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,js&theme=dark" alt="Programming Languages" />
 </a>
 
 <br/>
 
-### 🎨 Frontend Architecture
+### 🎨 Frontend Development
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,html,css,sass&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" alt="Frontend Technologies" />
 </a>
 
 <br/>
 
-### ⚙️ Backend, Microservices & Databases
+### ⚙️ Backend & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,postgres,mongodb,redis&theme=dark" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend & Databases" />
 </a>
 
 <br/>
 
-### ☁️ Cloud, DevOps, Tooling & Orchestration
+### 🔧 Tools, Platforms & Environment
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,kafka,terraform,githubactions&theme=dark" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer Tools" />
 </a>
 
 </div>
 
 <br/>
 
-| Category | Primary Technologies | Architecture & Frameworks |
+| Category | Technologies | Focus Areas |
 | :--- | :--- | :--- |
-| **Languages** | Python 3.12, TypeScript, Go, Rust, Modern C++, Java 21 | Asynchronous I/O, Concurrency, Memory Safety, Low-Latency Routines |
-| **Frontend & Mobile** | React.js, Next.js 15 (App Router), Vue.js, Tailwind CSS | Micro-frontends, Server-Side Rendering (SSR), WebSockets, Web Workers |
-| **Backend & APIs** | FastAPI, Node.js / Bun, Go-Fiber, gRPC, GraphQL | RESTful API, RPC Contracts, Event-Driven Architecture, CQRS |
-| **Data & Caching** | PostgreSQL, MongoDB, Redis Cluster, ClickHouse, Cassandra | Sharding, Vector Search (pgvector, Milvus, Qdrant), Multi-AZ Failover |
-| **Cloud & DevOps** | AWS (ECS, EKS, Lambda, SQS, S3), GCP, Docker, Kubernetes | Terraform IaC, Helm, GitHub Actions, Prometheus, Grafana, ArgoCD |
-| **Security & Auth** | OAuth2.0, OpenID Connect, JWT, TLS/mTLS, Zero-Trust | HashiCorp Vault, RBAC/ABAC Policies, Secret Management |
+| **Languages** | Java, Python, C, JavaScript (ES6+) | Object-Oriented Programming, DSA, Scripting, Problem Solving |
+| **Frontend** | React.js, HTML5, CSS3, Bootstrap | Responsive Design, Component State Management, DOM Manipulation |
+| **Backend & APIs** | Node.js, Express.js, RESTful APIs | Server Routing, Middleware, CRUD Endpoints, Authentication |
+| **Databases** | MongoDB, MongoDB Compass | NoSQL Schema Design, Document Aggregation, Data Modeling |
+| **Tools & Version Control** | Git, GitHub, VS Code, Postman | Repository Management, API Testing, Debugging, Code Structuring |
+| **Core CS & Security** | DSA, OOP, DBMS, OS, Computer Networks | Algorithmic Problem Solving, Threat Assessment, Vulnerability Analysis |
 
 ---
 
@@ -127,16 +126,14 @@ I am a **Senior Software Engineer & Distributed AI Architect** with a deep speci
 <!-- 4. AI / ML EXPERTISE SECTION                                                        -->
 <!-- =================================================================================== -->
 
-## 🧠 Artificial Intelligence & Machine Learning Expertise
+## 🧠 AI, Data Analytics & Security Domain Focus
 
 | Domain | Proficiency | Technical Focus & Engineering Details |
 | :--- | :---: | :--- |
-| **Generative AI & LLM Systems** | `Expert / Production` | Autonomous Agent Swarms (LangGraph, CrewAI, AutoGen), Function Calling, Structured Output Enforcement, Evaluation Frameworks (Ragas, TruLens) |
-| **Advanced RAG Pipelines** | `Expert / Production` | Hybrid Search (Dense + Sparse/BM25), Re-ranking (Cross-Encoders), Context Compression, Graph RAG, Semantic Caching via Redis |
-| **Vector Search & Embeddings** | `Advanced` | Qdrant, Pinecone, Milvus, Weaviate, HNSW indexing optimization, Dimensionality Reduction, Multimodal Cross-Attention |
-| **Model Fine-Tuning & Quantization**| `Advanced` | LoRA, QLoRA, PEFT, Hugging Face Transformers, DeepSpeed, vLLM High-Throughput Inference Serving, AWQ/GGUF 4-bit Quantization |
-| **Deep Learning & Computer Vision** | `Proficient` | PyTorch, TensorFlow, CNNs, Transformers, Diffusion Pipelines, Object Detection (YOLOv10), Latent Representation Space |
-| **MLOps & Pipeline Automation** | `Advanced` | MLflow, Kubeflow Pipelines, DVC, Feature Stores (Feast), Model Drift Detection, Continuous Online Model Retraining |
+| **Generative AI Fundamentals** | `Certified / Applied` | Prompt Engineering, Foundation Models, AI Integration workflows (Microsoft & LinkedIn Certified) |
+| **Predictive Analytics & Categorization** | `Intermediate` | Expense forecasting, transaction trend analytics, automated data aggregation, dynamic scoring |
+| **Cybersecurity & Threat Analysis** | `Hands-On` | Vulnerability assessment, network security labs, risk management (Acmegrade Internship Experience) |
+| **Database & System Design Fundamentals** | `Intermediate` | Relational & NoSQL database concepts (DBMS), ACID properties, normalization, indexing strategies |
 
 ---
 
@@ -144,95 +141,73 @@ I am a **Senior Software Engineer & Distributed AI Architect** with a deep speci
 <!-- 5. FEATURED PROJECTS SECTION                                                        -->
 <!-- =================================================================================== -->
 
-## 🚀 Flagship Engineering Projects
+## 🚀 Featured Engineering Projects
 
 <details open>
-<summary><b>1. 🧠 EXPENSE-TRACKER-AI: Autonomous Financial Intelligence & Predictive Categorization Platform</b></summary>
+<summary><b>1. 🏡 STAYEASE: Full-Stack Airbnb Booking Platform (MERN Stack)</b></summary>
 <br/>
 
-> **Full-stack intelligent financial analysis and telemetry system with automated receipt parsing, zero-shot expense categorization, anomaly detection, and predictive cash-flow forecasting.**
+> **A feature-rich full-stack vacation rental booking platform built with the MERN stack featuring secure user authentication, property listings, dynamic search filters, and booking management.**
 
-| Dimension | Production Specification |
+| Dimension | Project Specification |
 | :--- | :--- |
-| **Tech Stack** | Python (Flask / FastAPI), PyTorch, Scikit-Learn, Next.js / React, PostgreSQL, Redis, Chart.js, Tailwind CSS |
-| **Scale** | Tested on **1.8M+ transaction datasets** with sub-50ms query aggregation times across complex multi-account ledgers |
-| **Performance** | **< 120ms categorization inference** latency; 98.4% F1-score on multi-class merchant expense classification |
-| **Security** | End-to-end encrypted financial metadata, deterministic PII redaction, secure JWT session management |
-| **Impact** | Automates personal and small-business budgeting workflows, detecting anomalous subscriptions and projected burn rates |
+| **Tech Stack** | React.js, Node.js, Express.js, MongoDB, JavaScript (ES6+), CSS3, Bootstrap |
+| **Architecture** | Client-Server MERN architecture with modular RESTful API endpoints and NoSQL data modeling |
+| **Features** | User Registration/Login, Property Search & Filters, Detailed Listing Views, Booking Reservation Flow |
+| **Security** | Secure password hashing, token-based session handling, sanitized API input validation |
+| **Impact** | Demonstrates complete end-to-end full stack software engineering with responsive UI and seamless CRUD operations |
+| **Repository** | [View Source Code & Architecture](https://github.com/Shubhamverma2221/stayease-airbnb-clone) |
+
+#### 🔬 Engineering Highlights
+- Built modular REST API routes in Express.js for seamless listing management, user profiles, and reservation status tracking.
+- Designed responsive React components with custom CSS and Bootstrap for smooth desktop and mobile browsing.
+- Integrated MongoDB schemas with optimized references between users, properties, and bookings.
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>2. 💰 AI EXPENSE TRACKER & PREDICTOR: Intelligent Financial Management Application</b></summary>
+<br/>
+
+> **A responsive personal finance tracking and telemetry application with automated categorization, real-time budgeting metrics, and intelligent spending trend analytics.**
+
+| Dimension | Project Specification |
+| :--- | :--- |
+| **Tech Stack** | Python (Flask / Analytics), JavaScript, HTML5, CSS3, LocalStorage / Database |
+| **Architecture** | Modular client-side dashboard integrated with analytical calculation logic and predictive tracking |
+| **Features** | Real-time Income & Expense Logging, Category Breakdown, Visual Analytics, Spending Trend Forecasting |
+| **Performance** | Instant zero-lag recalculation of running balances, chart updates, and budget allocation thresholds |
+| **Impact** | Simplifies personal money management and empowers users to track financial health and prevent overspending |
 | **Repository** | [View Source Code & Architecture](https://github.com/Shubhamverma2221/expense-tracker-ai) |
 
 #### 🔬 Engineering Highlights
-- Implemented automated feature engineering pipelines transforming unstructured merchant transaction strings into rich spatial-temporal embeddings.
-- Developed interactive financial telemetry dashboards with real-time responsive analytics and dynamic budget health scores.
+- Engineered interactive visual charts and category summaries for intuitive budget oversight and transaction auditing.
+- Implemented robust CRUD operations allowing users to add, update, filter, and delete records seamlessly.
+- Structured predictive logic to estimate upcoming monthly expenses based on historical category trends.
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>2. 🌐 AETHER-ENGINE: Enterprise Autonomous Multi-Agent AI Orchestration Platform</b></summary>
+<summary><b>3. 🛡️ CYBERSECURITY THREAT & VULNERABILITY ASSESSMENT LAB</b></summary>
 <br/>
 
-> **High-throughput, multi-agent AI execution engine capable of parallel task decomposition, autonomous self-correction, dynamic tool synthesis, and continuous real-time streaming for mission-critical enterprise workflows.**
+> **Practical hands-on security assessment suite focused on identifying system vulnerabilities, network security posture analysis, and mitigation planning.**
 
-| Dimension | Production Specification |
+| Dimension | Project Specification |
 | :--- | :--- |
-| **Tech Stack** | Python 3.12, FastAPI, LangGraph, vLLM, Qdrant Vector Engine, Redis Cluster, Next.js 15, Docker, AWS EKS |
-| **Scale** | Processed **12M+ autonomous agent steps/month** across 500+ concurrent enterprise tenant sessions |
-| **Performance** | Sub-**180ms TTFT (Time to First Token)** using speculative decoding; 4.8x inference speedup with continuous batching |
-| **Security** | Zero-Trust container sandboxing, deterministic PII redaction filters, AES-256 encrypted memory traces |
-| **Impact** | Reduced domain-specific knowledge ingestion latency by **74%** and cut infrastructure compute costs by **42%** |
-| **Repository** | [View Source Code & Architecture](https://github.com/Shubhamverma2221/aether-engine) |
+| **Tech Stack** | Network Security Tools, Wireshark, Linux Shell, Python Scripting |
+| **Scope** | Threat Modeling, Port & Service Scanning, Vulnerability Identification, Risk Matrix Mapping |
+| **Security Focus**| Network packet inspection, authentication vulnerability testing, secure configuration hardening |
+| **Impact** | Formulated structured risk reports detailing security weaknesses and remediation steps |
+| **Repository** | [View Profile Repositories](https://github.com/Shubhamverma2221) |
 
 #### 🔬 Engineering Highlights
-- Designed a custom **dynamic context pruning algorithm** that preserves long-horizon conversation memory across 128k token contexts without catastrophic forgetfulness.
-- Implemented **distributed semantic caching** on Redis Cluster, resulting in a **68% cache hit rate** for recurring organizational analytical queries.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>3. ⚡ KRONOS-STREAM: Ultra Low-Latency High-Frequency Algorithmic Ingestion Mesh</b></summary>
-<br/>
-
-> **Distributed real-time financial telemetry ingestion pipeline processing uncompressed order books, tick data, and market signals with sub-millisecond p99 latency guarantees.**
-
-| Dimension | Production Specification |
-| :--- | :--- |
-| **Tech Stack** | Rust (Tokio/Actix), Apache Kafka, ClickHouse, Apache Flink, gRPC/Protobuf, Prometheus, Grafana |
-| **Scale** | **1.8 Million events/sec sustained throughput** with burst capacity tested up to 3.5 Million events/sec |
-| **Performance** | **p99 latency < 1.8ms** end-to-end (ingestion to analytical storage engine) across distributed multi-region nodes |
-| **Security** | TLS 1.3 mTLS authenticated node communication, cryptographically signed audit ledger, hardware-isolated nodes |
-| **Impact** | Enabled real-time risk calculations and algorithmic arbitrage execution with zero backpressure data loss |
-| **Repository** | [View Source Code & Architecture](https://github.com/Shubhamverma2221/kronos-stream) |
-
-#### 🔬 Engineering Highlights
-- Authored a custom zero-copy memory ring-buffer in Rust utilizing SIMD vectorization for ultra-fast parsing of binary market data.
-- Deployed real-time stream aggregation pipelines with Apache Flink, outputting partitioned, columnar metrics to ClickHouse for sub-second analytical querying.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>4. 🛡️ NEXUS-GUARD: Zero-Trust Cloud-Native Microservices Mesh & Security Gateway</b></summary>
-<br/>
-
-> **Enterprise API Gateway and Service Mesh proxy orchestrating dynamic rate limiting, continuous behavioral anomaly detection, and cryptographic access validation across microservice fleets.**
-
-| Dimension | Production Specification |
-| :--- | :--- |
-| **Tech Stack** | Go (Golang), Envoy Proxy, Kubernetes Operators, Redis, Open Policy Agent (OPA), HashiCorp Vault |
-| **Scale** | Governing **85+ distinct microservice endpoints** handling 450M+ requests/day |
-| **Performance** | Added overhead **< 0.85ms p95 latency** per proxied request under full cryptographic inspection |
-| **Security** | Automated dynamic mTLS certificate rotation via HashiCorp Vault, OPA Rego policy enforcement, DDoS mitigation |
-| **Impact** | Prevented 100% of unauthorized inter-service lateral movement attempts during comprehensive red-team audits |
-| **Repository** | [View Source Code & Architecture](https://github.com/Shubhamverma2221/nexus-guard) |
-
-#### 🔬 Engineering Highlights
-- Built a native Go Kubernetes Operator to continuously reconcile service identities, IAM boundaries, and runtime secrets dynamically.
-- Integrated an intelligent leaky-bucket rate limiter with sliding window tracking distributed across an active-active Redis cluster.
+- Evaluated network traffic patterns and simulated security assessments in controlled virtual environments.
+- Applied threat analysis frameworks to prioritize vulnerabilities based on exploitability and organizational impact.
 
 </details>
 
@@ -242,44 +217,38 @@ I am a **Senior Software Engineer & Distributed AI Architect** with a deep speci
 <!-- 6. EXPERIENCE SECTION                                                               -->
 <!-- =================================================================================== -->
 
-## 💼 Professional Experience
+## 💼 Professional Experience & Leadership
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  SENIOR SOFTWARE ENGINEER (AI & PLATFORM) ── Global Enterprise Cloud Solutions                        │
-│  [January 2023 – Present]                                                        📍 San Francisco / Remote  │
+│  CYBER SECURITY INTERN ── Acmegrade Pvt. Ltd.                                                          │
+│  [June 2025 – August 2025]                                                              📍 Virtual / Remote │
 └────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
-- **Architected and spearheaded** the transition of core legacy monorepos into an asynchronous, event-driven microservices architecture using **Go, Kafka, and Kubernetes**, improving global system uptime from 99.85% to **99.995%**.
-- **Engineered an enterprise GenAI platform** supporting multi-modal LLM workflows, cutting customer operational ticket resolution times by **62%** across 200,000+ active enterprise users.
-- **Spearheaded database optimization efforts** across multi-terabyte PostgreSQL and ClickHouse clusters, reducing analytical query execution times by **58%** and decreasing storage overhead by **35%**.
-- **Mentored 12+ junior and mid-level software engineers**, established rigorous code review standards, and introduced comprehensive end-to-end automated testing suites resulting in a **45% decline in production hotfixes**.
+- **Conducted threat analysis and vulnerability assessments** across simulated networks and web applications to identify security weaknesses.
+- **Engaged in practical network security labs**, evaluating packet captures and practicing defense-in-depth principles.
+- **Collaborated during technical mentoring sessions**, completing rigorous risk management exercises and security documentation.
 
 <p>
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Cybersecurity-005073?style=flat-square&logo=ciscosecurity&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Threat_Analysis-D9381E?style=flat-square&logo=target&logoColor=white" alt="Threat Analysis" />
+  <img src="https://img.shields.io/badge/Network_Security-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Network Security" />
 </p>
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  FULL STACK SOFTWARE ENGINEER ── NextGen Distributed Technologies                                     │
-│  [July 2021 – December 2022]                                                      📍 Tech Hub / Hybrid │
+│  DESIGN & VIDEOGRAPHY HEAD ── CodeGenX, DIT University                                                 │
+│  [2024 – Present]                                                                 📍 Dehradun, India    │
 └────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
-- **Engineered scalable user-facing web applications** with **Next.js, TypeScript, and Tailwind CSS**, achieving flawless 100/100 Google Lighthouse performance, accessibility, and SEO ratings.
-- **Constructed RESTful and GraphQL backend microservices** with **FastAPI and Node.js**, handling 25M+ daily requests with strict SLA adherence.
-- **Implemented zero-trust security postures** including multi-factor authentication, OAuth 2.0 flows, and automated dependency vulnerability scans within CI/CD pipelines.
+- **Led media, branding, and promotional campaigns** for major university technical events, hackathons, and coding workshops.
+- **Directed creative photography and videography teams**, boosting student participation and event outreach.
+- **Collaborated with organizing committees** to ensure seamless technical and creative execution of departmental summits.
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Leadership-4F46E5?style=flat-square&logo=googleclassroom&logoColor=white" alt="Leadership" />
+  <img src="https://img.shields.io/badge/Event_Management-7C3AED?style=flat-square&logo=googlemeet&logoColor=white" alt="Event Management" />
+  <img src="https://img.shields.io/badge/Media_&_Branding-6366F1?style=flat-square&logo=adobecreativesdk&logoColor=white" alt="Branding" />
 </p>
 
 ---
@@ -292,13 +261,12 @@ I am a **Senior Software Engineer & Distributed AI Architect** with a deep speci
 
 <div align="center">
 
-| Recognition | Details & Impact |
+| Recognition | Details & Scope |
 | :--- | :--- |
-| 🥇 **Grand Winner — National AI & Cloud Hackathon** | Built an autonomous disaster-relief swarm intelligence system in 36 hours out of 4,000+ national participants |
-| 🌟 **Top 1% Competitive Programmer** | Ranked top percentile globally on LeetCode (Knight Tier / 2150+ Rating) solving 1,200+ advanced algorithmic challenges |
-| 📜 **Published Research Author (IEEE / Springer)** | Authored peer-reviewed paper on *"Low-Latency Edge Ingestion Pipelines for Distributed Sensor Networks"* |
-| 🎖️ **Engineering Excellence Award** | Awarded organizational MVP for architecting zero-downtime database migration saving \$180,000 annually |
-| 🚀 **Open Source High-Impact Contributor** | Active core contributor to prominent open-source GenAI, FastAPI, and Kubernetes developer ecosystem tools |
+| 🎓 **Academic Excellence (B.Tech CSE)** | Maintained a **7.73 / 10 CGPA** at DIT University across core Computer Science and Engineering courses |
+| 🛡️ **Design & Media Leadership** | Appointed Head of Design & Videography at CodeGenX technical society, leading 15+ student creators |
+| 💻 **Active Competitive Problem Solver** | Solved 100+ Data Structures & Algorithms problems across LeetCode, HackerRank, and GeeksforGeeks |
+| 🌟 **Certified in Generative AI Essentials** | Awarded official certification by Microsoft and LinkedIn for foundational AI concepts and practical workflows |
 
 </div>
 
@@ -308,32 +276,22 @@ I am a **Senior Software Engineer & Distributed AI Architect** with a deep speci
 <!-- 8. CERTIFICATIONS SECTION                                                           -->
 <!-- =================================================================================== -->
 
-## 📜 Professional Certifications & Accreditations
+## 📜 Professional Certifications
 
 <div align="center">
 
-### ☁️ Amazon Web Services (AWS)
-<img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA" />
-<img src="https://img.shields.io/badge/AWS-Certified%20Developer%20Associate-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS CDA" />
-<img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-8C4FFF?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="AWS AI" />
+### 🤖 Microsoft & LinkedIn
+<img src="https://img.shields.io/badge/Microsoft%20%26%20LinkedIn-Career%20Essentials%20in%20Generative%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Gen AI" />
 
 <br/>
 
-### ☕ Oracle
-<img src="https://img.shields.io/badge/Oracle-Certified%20Professional%20Java%20SE%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java" />
-<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Architect%20Associate-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI" />
+### 💼 Tata Consultancy Services (TCS)
+<img src="https://img.shields.io/badge/TCS%20iON-Career%20Edge%20Young%20Professional-0052CC?style=for-the-badge&logo=tata&logoColor=white" alt="TCS Career Edge" />
 
 <br/>
 
-### 🎓 NPTEL & Academic Accreditations
-<img src="https://img.shields.io/badge/NPTEL-Elite%20%2B%20Gold%20in%20Distributed%20Systems-0052CC?style=for-the-badge&logo=googleacademic&logoColor=white" alt="NPTEL Dist" />
-<img src="https://img.shields.io/badge/NPTEL-Elite%20in%20Cloud%20Computing%20%26%20IoT-1B365D?style=for-the-badge&logo=edx&logoColor=white" alt="NPTEL Cloud" />
-
-<br/>
-
-### 🌐 Cisco
-<img src="https://img.shields.io/badge/Cisco-CCNA%20Enterprise%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Operations%20Associate-005073?style=for-the-badge&logo=ciscosecurity&logoColor=white" alt="Cisco Cyber" />
+### 🌐 Udemy & Technical Courses
+<img src="https://img.shields.io/badge/Udemy-Complete%20Web%20Development%20Bootcamp-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Web Dev" />
 
 </div>
 
@@ -347,20 +305,20 @@ I am a **Senior Software Engineer & Distributed AI Architect** with a deep speci
 
 <div align="center">
 
-<a href="https://leetcode.com/Shubhamverma2221" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Knight%20Tier%20%7C%202150%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+<a href="https://leetcode.com/u/shubhamshivi2004/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-shubhamshivi2004-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/Shubhamverma2221" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Top%201%25%20%7C%201500%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Shubhamverma2221-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
 </a>
 
 <br/>
 
-<a href="https://www.hackerrank.com/Shubhamverma2221" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-6%20Star%20Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+<a href="https://github.com/Shubhamverma2221" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Shubhamverma2221-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
-<a href="https://www.codechef.com/users/Shubhamverma2221" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5%20Star%20Coder%20%7C%20Division%201-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+<a href="https://www.hackerrank.com/shubhamshivi2004" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-shubhamshivi2004-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
 </a>
 
 </div>
@@ -371,7 +329,7 @@ I am a **Senior Software Engineer & Distributed AI Architect** with a deep speci
 <!-- 10. GITHUB ANALYTICS SECTION                                                        -->
 <!-- =================================================================================== -->
 
-## 📊 GitHub Analytics & Production Metrics
+## 📊 GitHub Analytics & Repository Metrics
 
 <div align="center">
 
@@ -433,26 +391,25 @@ I am a **Senior Software Engineer & Distributed AI Architect** with a deep speci
 <!-- 14. CURRENT FOCUS SECTION                                                           -->
 <!-- =================================================================================== -->
 
-## 🎯 Strategic Roadmap & Current Engineering Focus
+## 🎯 Current Focus & Roadmap
 
 ```yaml
-focus_areas:
+current_focus:
   learning:
-    - "Deep Learning Kernel Optimization (Triton, CUDA, FlashAttention-3)"
-    - "Advanced Formal Verification & High-Assurance Rust Systems"
-    - "Consensus Protocols (Raft, Paxos, Multi-Leader Active Replication)"
+    - "Advanced Data Structures & Algorithms in Java & Python"
+    - "Full-Stack MERN Optimization & Scalable State Management"
+    - "Database Indexing & Query Optimization in MongoDB"
   building:
-    - "Ultra-low-latency distributed vector storage engine with SIMD acceleration"
-    - "Autonomous multi-modal LLM reasoning pipelines with dynamic tool synthesis"
-    - "Open-source developer tooling for deterministic microservice benchmarking"
+    - "StayEase: Full-Stack MERN Vacation Booking Application"
+    - "AI Expense Tracker & Predictive Financial Analytics System"
+    - "Responsive React & Node.js Developer Utilities"
   exploring:
-    - "Neuromorphic Computing & Spike-Timing Dependent Plasticity (STDP)"
-    - "Decentralized Compute Networks & Confidential Virtual Machine (CVM) Security"
-    - "Sub-millisecond LLM speculative decoding on edge accelerators"
+    - "Generative AI API Integrations with Web Applications"
+    - "Cybersecurity Vulnerability Mitigation & Secure Coding Practices"
   open_to:
-    - "Senior / Staff Software Engineering Roles in Distributed Systems & AI"
-    - "Architecture Review & High-Scale Systems Consulting"
-    - "Collaborative Engineering on High-Impact Open Source Ecosystems"
+    - "Software Development Engineering (SDE) Internships"
+    - "Full Stack Web Developer (MERN Stack) Roles"
+    - "Collaborative Open-Source Projects"
 ```
 
 ---
@@ -465,7 +422,7 @@ focus_areas:
 
 <div align="center">
 
-**Interested in collaborating on high-concurrency architectures, enterprise AI systems, or discussing engineering opportunities?**
+**Let's connect! I'm always open to discussing full-stack web development, software engineering internships, or project collaborations.**
 
 <br/>
 
@@ -473,22 +430,22 @@ focus_areas:
   <img src="https://img.shields.io/badge/Gmail-Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/shubhamverma">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/shubham-verma-703061324">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://github.com/Shubhamverma2221">
-  <img src="https://img.shields.io/badge/GitHub-Codebase_&_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://github.com/Shubhamverma2221">
-  <img src="https://img.shields.io/badge/Portfolio-Interactive_Showcase-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<a href="https://leetcode.com/u/shubhamshivi2004/">
+  <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
 <br/>
 <br/>
 
-*Available for select consulting engagements, architectural advisory, and full-time technical leadership positions.*
+*Available for Software Development Engineer (SDE) internships, full-stack projects, and collaborative opportunities.*
 
 </div>
 
@@ -500,7 +457,7 @@ focus_areas:
 
 <div align="center">
 
-> *"Simplicity is a prerequisite for reliability. Great software is not built by adding features until nothing more can be added, but by engineering systems until nothing more can be taken away."*
+> *"Consistent effort and curiosity turn complex problems into clean, elegant solutions."*
 
 <br/>
 
